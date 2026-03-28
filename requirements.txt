@@ -1,0 +1,4 @@
+# Dance Manager – Python dependencies
+# Standard library only; no third-party packages are required.
+# tkinter is provided by the system Python distribution (python3-tk on Debian/Ubuntu).
+pytest>=7.0
